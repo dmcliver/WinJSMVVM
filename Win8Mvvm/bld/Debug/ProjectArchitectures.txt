@@ -1,0 +1,1 @@
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\Win8Mvvm.jsproj;neutral

@@ -1,0 +1,13 @@
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bin\Debug\resources.pri
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bin\Debug\AppxManifest.xml
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bin\Debug\Win8Mvvm.build.appxrecipe
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\priconfig.xml.intermediate
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\layout.resfiles.intermediate
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\resources.resfiles.intermediate
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\pri.resfiles.intermediate
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\priconfig.xml
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\layout.resfiles
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\resources.resfiles
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\pri.resfiles
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\LanguageQualifiers.txt
+c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bld\Debug\ProjectArchitectures.txt

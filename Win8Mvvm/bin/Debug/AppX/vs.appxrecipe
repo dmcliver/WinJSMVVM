@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8DEV</Machine>
+    <WindowsUser>win8user</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F27D146D65E051736A900DDBB63E87B43034A0191715028966C67DF0538C928D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5d796e24-6059-4c29-8214-278adc50f830_1.0.0.0_neutral__atr2n984sz404</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5d796e24-6059-4c29-8214-278adc50f830_atr2n984sz404!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5d796e24-6059-4c29-8214-278adc50f830</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=win8user</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-19T02:45:40.581</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-05-19T01:00:11.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2013-05-19T01:00:11.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T05:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T05:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T05:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-05T05:39:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-05-19T01:00:11.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-05-19T01:00:11.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\js\WinAteMVMM.js">
+      <PackagePath>js\WinAteMVMM.js</PackagePath>
+      <Modified>2013-05-19T04:43:17.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\Models\Message.js">
+      <PackagePath>Models\Message.js</PackagePath>
+      <Modified>2013-05-19T02:48:02.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2013-05-19T05:54:41.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\Repositories\MessageRepository.js">
+      <PackagePath>Repositories\MessageRepository.js</PackagePath>
+      <Modified>2013-05-19T02:46:56.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\Scripts\jquery-2.0.0.intellisense.js">
+      <PackagePath>Scripts\jquery-2.0.0.intellisense.js</PackagePath>
+      <Modified>2013-05-19T01:03:15.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\Scripts\jquery-2.0.0.js">
+      <PackagePath>Scripts\jquery-2.0.0.js</PackagePath>
+      <Modified>2013-05-19T01:03:17.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\Scripts\jquery-2.0.0.min.js">
+      <PackagePath>Scripts\jquery-2.0.0.min.js</PackagePath>
+      <Modified>2013-05-19T01:03:17.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\ViewModels\MessageViewModel.js">
+      <PackagePath>ViewModels\MessageViewModel.js</PackagePath>
+      <Modified>2013-05-19T05:56:59.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2013-05-19T01:03:17.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2013-05-19T05:56:59.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-05-19T01:00:11.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\Scripts\jquery-2.0.0.min.map">
+      <PackagePath>Scripts\jquery-2.0.0.min.map</PackagePath>
+      <Modified>2013-05-19T01:03:16.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\win8user\documents\visual studio 2012\Projects\Win8Mvvm\Win8Mvvm\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-05-19T02:45:40.322</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20602</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20602</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
